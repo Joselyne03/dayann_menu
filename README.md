@@ -1,3 +1,6 @@
+Status: In progress 
+Run Project: `npm start`
+ 
 ## Todo
 Date Aug 26
 - Add transitions into the popup card when it is clicked
