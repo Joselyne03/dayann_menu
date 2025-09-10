@@ -1,0 +1,44 @@
+[
+    {
+        "service": "Lavender Spa",
+        "type": "Spa",
+        "details": "Relax in a luxurious sultry scented bath steeped with fresh lavender essential herbs. Relieves stress and fatigue. A warm lavender foot treatment is applied to decrease fluid retention and swelling. Leg and foot massage with rich peppermint foot creme concludes this very relaxing pedicure experience.",
+        "price": 47
+    },
+    {
+        "service": "Lemon Spa",
+        "type": "Spa",
+        "details": "Lemon Spa thoroughly cleanse and purify skin as well as having physical benefits such as maintaining healthy skin, providing energy for aching feet and boosting circulation. Reenergize the whole body and dispel sluggishness.",
+        "price": 57
+    },
+    {
+        "service": "Mandarin Spa",
+        "type": "Spa",
+        "details": "Lemon Spa thoroughly cleanse and purify skin as well as having physical benefits such as maintaining healthy skin, providing energy for aching feet and boosting circulation. Reenergize the whole body and dispel sluggishness.",
+        "price": 57
+    },
+    {
+        "service": "Sensual Rose Spa",
+        "type": "Spa",
+        "details": "Lemon Spa thoroughly cleanse and purify skin as well as having physical benefits such as maintaining healthy skin, providing energy for aching feet and boosting circulation. Reenergize the whole body and dispel sluggishness.",
+        "price": 57
+    },
+    {
+        "service": "Green Tea Spa",
+        "type": "Spa",
+        "details": "Lemon Spa thoroughly cleanse and purify skin as well as having physical benefits such as maintaining healthy skin, providing energy for aching feet and boosting circulation. Reenergize the whole body and dispel sluggishness.",
+        "price": 50
+    },
+    {
+        "service": "Silky Milk Spa",
+        "type": "Spa",
+        "details": "Lemon Spa thoroughly cleanse and purify skin as well as having physical benefits such as maintaining healthy skin, providing energy for aching feet and boosting circulation. Reenergize the whole body and dispel sluggishness.",
+        "price": 57
+    },
+    {
+        "service": "Pomegrante Spa",
+        "type": "Spa",
+        "details": "Lemon Spa thoroughly cleanse and purify skin as well as having physical benefits such as maintaining healthy skin, providing energy for aching feet and boosting circulation. Reenergize the whole body and dispel sluggishness.",
+        "price": 57
+    }
+]

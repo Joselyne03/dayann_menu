@@ -1,0 +1,76 @@
+.service-cards {
+    background-color: transparent;
+    border: 1px solid #ddd;
+    display: flex;
+    flex-direction: row; /* default: horizontal */
+    justify-content: space-between;
+    align-items: center; /* better than align-content */
+    border-radius: 16px;
+    box-sizing: border-box; /* include padding in width */
+    height: 150px;
+  }
+  
+.service-cards:hover{
+    /* Add box shodow with hovered over */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.left{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin-right: 5px;
+}
+.header{
+    display: flex;
+    flex-direction: column;
+
+}
+.title{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-bottom: 7px;
+    align-items: center;
+}
+
+.right-corner{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    width:20%
+}
+    .price-display{
+        display:flex;
+        flex-direction: row;
+        align-content: space-between;
+        gap: calc(var(--spacing) * 2);
+        row-gap: calc(0.5rem);
+        column-gap: calc(0.5rem);
+    }
+
+.tag {
+    background-color: pink;
+    color:rgb(221, 66, 91);
+
+    display: inline-block;
+    border-radius: 12px;
+    margin-left: 8px;
+    padding: 2px 8px;
+    font-size: 0.75em;
+
+}
+
+.image {
+    flex: 0 0 40%; /* reserve ~40% of card width for the image */
+    height: 100%;
+   
+}
+  
+.img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* fills space without distortion, may crop */
+    border-radius: 12px;
+    display: block;
+}

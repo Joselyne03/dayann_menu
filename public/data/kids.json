@@ -1,0 +1,26 @@
+[
+    {
+        "service": "Manicure for 6-8 years old",
+        "type": "Manicure",
+        "details": "A gentle and relaxing manicure tailored for kids. This manicure provides a safe and soothing experience. Separate pricing applies for ages 6–8 and ages 9–12. ",
+        "price": 7
+    },
+    {
+        "service": "Manicure for 9-12 years old",
+        "type": "Manicure",
+        "details": "A gentle and relaxing manicure tailored for kids. This manicure provides a safe and soothing experience. Separate pricing applies for ages 6–8 and ages 9–12. ",
+        "price": 12
+    },
+    {
+        "service": "Pedicure for 6-8 years old",
+        "type": "Pedicure",
+        "details": "A gentle and relaxing pedicure tailored for kids. This manicure provides a safe and soothing experience. Separate pricing applies for ages 6–8 and ages 9–12. ",
+        "price": 12
+    },
+    {
+        "service": "Pedicure for 9-12 years old",
+        "type": "Pedicure",
+        "details": "A gentle and relaxing pedicure tailored for kids. This manicure provides a safe and soothing experience. Separate pricing applies for ages 6–8 and ages 9–12. ",
+        "price": 22
+    }
+]

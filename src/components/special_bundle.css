@@ -1,0 +1,13 @@
+.special-bundle{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: large;
+}
+.h1{
+    display: flex;
+}
+.special-description{
+    margin-left: 20px;
+    margin-right: 20px;
+}

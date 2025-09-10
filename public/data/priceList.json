@@ -1,0 +1,342 @@
+[
+    {
+        "service": "Manicure",
+        "section" : "Manicure",
+        "type": "Regular",
+        "details": "Manicure: 18 Enjoy a a classical set of a regular manicure and pedicure with our wide range of color sets.",
+        "price":18
+    },
+    {
+        "service": "French Manicure",
+        "section" : "Manicure",
+        "type": "Regular",
+        "details": "Manicure: 18 Enjoy a a classical set of a regular manicure and pedicure with our wide range of color sets.",
+        "price":23
+    },
+    {
+        "service": "Gel Manicure",
+        "section" : "Manicure",
+        "type": "Gel",
+        "details": " ",
+        "price":40
+    },
+    {
+        "service": "Gel Polish Manicure Change",
+        "section" : "Manicure",
+        "type": "Gel",
+        "details": "Enjoy a a classical set of a regular manicure and pedicure with our wide range of color sets.",
+        "price": 30
+    },
+    {
+        "service": "Regular Polish Manicure Change",
+        "section" : "Manicure",
+        "type": "Regular",
+        "details": "Enjoy a a classical set of a regular manicure and pedicure with our wide range of color sets.",
+        "price": 13
+    },
+    {
+        "service": "Keratin Manicure",
+        "section" : "Manicure",
+        "type": "Regular",
+        "details": " Enjoy a a classical set of a regular manicure and pedicure with our wide range of color sets.",
+        "price": 25
+    },
+    {
+        "service": "Gel Polish Manicure Change",
+        "section" : "Manicure",
+        "type": "Gel",
+        "details": "Manicure: 18 Enjoy a a classical set of a regular manicure and pedicure with our wide range of color sets.",
+        "price": 30
+    },
+    {
+        "service": "Lavender Manicure",
+        "section" : "Manicure",
+        "type": "Spa",
+        "details": "Manicure: 18 Enjoy a a classical set of a regular manicure and pedicure with our wide range of color sets.",
+        "price": 32
+
+    },
+    {
+        "service": "Gel X Set",
+        "section" : "Gel Services",
+        "type": "Gel",
+        "details": "Enhance your nails with Gel X extensions—flexible, long-lasting, and designed for a flawless natural finish.",
+        "price": 70
+    },
+    {
+        "service": "Après Gel X Set",
+        "section" : "Gel Services",
+        "type": "Gel",
+        "details": "Après Gel X is the modern alternative to acrylics—soft gel tips cured under LED light for elegant, flexible, and long-lasting nails.",
+        "newPrice": 85
+    },
+    {
+    "service": "Builder Gel",
+    "section" : "Gel Services",
+    "type": "Gel",
+    "details": "Achieve beautiful, long-lasting nails with builder gel—designed to add strength, structure, and natural elegance.",
+    "newPrice": 65
+    },
+    {
+    "service": "Builder Filling",
+    "section" : "Gel Services",
+    "type": "Gel",
+    "details": "A rejuvenating builder gel fill to restore, strengthen, and seamlessly refresh your existing set.",
+    "newPrice": 60
+    },
+    {
+        "service": "Tip Set With Gel",
+        "section" : "Acrylic",
+        "type": "Gel",
+        "details": "Manicure: 18 Enjoy a a classical set of a regular manicure and pedicure with our wide range of color sets.",
+        "price": 90
+    },
+    {
+        "service": "Tip Set With Regular",
+        "section" : "Acrylic",
+        "type": "Regular",
+        "details": "Manicure: 18 Enjoy a a classical set of a regular manicure and pedicure with our wide range of color sets.",
+        "price": 75
+    },
+    {
+        "service": "Pink & White Set",
+        "section" : "Acrylic",
+        "type": "French",
+        "details": "When the base is pink and white french set ",
+        "price": 80
+    },
+    {
+        "service": "Acrylic Filling",
+        "section" : "Acrylic",
+        "type": "Reg",
+        "details": " ",
+        "price": 55
+    },
+    {
+        "service": "Acrylic Filling",
+        "section" : "Acrylic",
+        "type": "Gel",
+        "details": " ",
+        "price": 75
+    },
+    {
+        "service": "Pink & White Filling",
+        "section" : "Acrylic",
+        "type": "Regular",
+        "details": " ",
+        "price": 60
+    },
+    {
+        "service": "Powder Set With Tips",
+        "section" : "Powder",
+        "type": "SNS-Organic",
+        "details": " ",
+        "price": 85
+    },
+    {
+        "service": "Powder Manicure",
+        "section" : "Powder",
+        "type": "SN-Organic",
+        "details": " ",
+        "price": 55
+    },
+    {
+        "service": "Pedicure",
+        "section" : "Pedicure",
+        "type": "Regular",
+        "details": " ",
+        "price": 30
+    },
+    {
+        "service": "Gel Pedicure",
+        "section" : "Pedicure",
+        "type": "Gel",
+        "details": " ",
+        "price": 55
+    },
+    {
+        "service": "Jelly Pedicure",
+        "section" : "Pedicure",
+        "type": "Regular",
+        "details": " ",
+        "price": 38
+    },
+    {
+        "service": "Keratin Pedicure",
+        "section" : "Pedicure",
+        "type": "Regular",
+        "details": " ",
+        "price": 40
+    },
+    {
+        "service": "Polish Change Pedicure",
+        "section" : "Pedicure",
+        "type": "Regular",
+        "details": " ",
+        "price": 22
+    },
+    {
+        "service": "Polish Change Pedicure",
+        "section" : "Pedicure",
+        "type": "Gel",
+        "details": " ",
+        "price": 35
+    },
+    {
+        "service": "Manicure",
+        "section" : "Men",
+        "type": "Regular",
+        "details": " Clear Manicure ",
+        "price": 18
+    },
+    {
+        "service": "Pedicure",
+        "section" : "Men",
+        "type": "Regular",
+        "details": " ",
+        "price": 35
+    },
+    {
+        "service": "Gel Manicure",
+        "section" : "Men",
+        "type": "Gel",
+        "details": " ",
+        "price": 28
+    },
+    {
+        "service": "Gel Pedicure",
+        "section" : "Men",
+        "type": "Gel",
+        "details": " ",
+        "price": 42
+    },
+    {
+        "service": "Lavender Spa",
+        "section" : "Spa",
+        "type": "Spa",
+        "details": "Relax in a luxurious sultry scented bath steeped with fresh lavender essential herbs. Relieves stress and fatigue. A warm lavender foot treatment is applied to decrease fluid retention and swelling. Leg and foot massage with rich peppermint foot creme concludes this very relaxing pedicure experience.",
+        "price": 47
+    },
+    {
+        "service": "Lemon Spa",
+        "section" : "Spa",
+        "type": "Spa",
+        "details": "Lemon Spa thoroughly cleanse and purify skin as well as having physical benefits such as maintaining healthy skin, providing energy for aching feet and boosting circulation. Reenergize the whole body and dispel sluggishness.",
+        "price": 57
+    },
+    {
+        "service": "Chair Massage",
+        "section" : "Additional Services",
+        "type": "Massage",
+        "details": "10 minutes of chair massage",
+        "price": 13
+    },
+    {
+        "service": "Acrylic Soak Off",
+        "section" : "Additional Services",
+        "type": "Arcylic",
+        "details": "Only Soak Off will be $20, if you want a soak off with a new acrylic set the soak off price will be $12",
+        "price": 20
+    },
+    {
+        "service": "Gel Soak Off",
+        "section" : "Additional Services",
+        "type": "Gel",
+        "details": "Only Soak Off will be $10, if you want a soak off with a set the soak off price will be $7",
+        "price": 10
+    },
+    {
+        "service": "Powder Soak Off",
+        "section" : "Additional Services",
+        "type": "Powder",
+        "details": "Only Soak Off will be $15, if you want a soak off with a new set the soak off price will be $10",
+        "price": 15
+    },
+    {
+        "service": "Callus Remover",
+        "section" : "Additional Services",
+        "type": "Powder",
+        "details": " ",
+        "price": 15
+    },
+    {
+        "service": "Pedicure Paraffin Treatment",
+        "section" : "Additional Services",
+        "type": "Pedicure",
+        "details": " ",
+        "price": 15
+    },
+    {
+        "service": "Manicure Paraffin Treatment",
+        "section" : "Additional Services",
+        "type": "Manicure",
+        "details": " ",
+        "price": 10
+    },
+    {
+        "service": "Manicure & Pedicure",
+        "section" : "Special Bundles",
+        "type": "Regular",
+        "details": "Manicure: 18, Pedicure: 30 Enjoy a a classical set of a regular manicure and pedicure with our wide range of color sets.",
+        "oldPrice": 48,
+        "newPrice": 43,
+        "duration": 60
+      },
+      {
+        "service": "Gel Pedicure",
+        "section" : "Special Bundles",
+        "type": ["Massage Special", "Gel"],
+        "details": "Includes 10 minutes of massage",
+        "price": 63
+      },
+      {
+        "service": "Powder Mancicure",
+        "section" : "Special Bundles",
+        "type": ["Massage Special","Powder"],
+        "details": "Includes 10 minutes of massage",
+        "price": 62
+      },
+      {
+        "service": "Gel Manicure & Regular Pedicure",
+        "section" : "Special Bundles",
+        "type": ["Massage Special","Gel-Regular"],
+        "details": "Includes 10 minutes of massage",
+        "price": 77 
+      },
+      {
+        "service": "Regular Manicure & Regular Pedicure",
+        "section" : "Special Bundles",
+        "type": ["Massage Special","Regular"],
+        "details": "Includes 10 minutes of massage",
+        "price": 54
+      },
+      {
+        "service": "Gel Manicure & Gel Pedicure",
+        "section" : "Special Bundles",
+        "type": ["Massage Special","Gel-Regular"],
+        "details": "Includes 10 minutes of massage",
+        "price": 99
+      },
+      {
+        "service": "Powder Manicire & Gel Pedicure",
+        "section" : "Special Bundles",
+        "type": ["Massage Special","Gel-Powder"],
+        "details": "Includes 10 minutes of massage",
+        "price": 112
+      },
+      {
+        "service": "Gel Manicure (With a spa Pedicure)",
+        "section" : "Special Bundles",
+        "type": ["Massage Special","Gel"],
+        "details": "Enjoy a long lasting gel Manicire at $34 if you pair with any additional spa pedicure. Thus the total price will be 34 + the price of the selected spa pedicure The spa pedicure include: rose, tangrine, lemon",
+        "price": 34
+      },
+      {
+        "service": "Free Manicure with a Pomegranate Spa Pedicure",
+        "section" : "Special Bundles",
+        "type": ["Massage Special","Manicure"],
+        "details": "N/A",
+        "price": 0
+      }
+
+]

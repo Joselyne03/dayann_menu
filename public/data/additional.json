@@ -1,0 +1,50 @@
+[
+    {
+        "service": "Nail Design",
+        "type": "Manicure",
+        "details": "Personalize your nails with up to two custom designs in you set. Simply share your inspiration with your nail technician. ",
+        "price": 7
+    },
+    {
+        "service": "Chair Massage",
+        "type": "Massage",
+        "details": "10 minutes of chair massage",
+        "price": 13
+    },
+    {
+        "service": "Acrylic Soak Off",
+        "type": "Arcylic",
+        "details": "Only Soak Off will be $20, if you want a soak off with a new acrylic set the soak off price will be $12",
+        "price": 20
+    },
+    {
+        "service": "Gel Soak Off",
+        "type": "Gel",
+        "details": "Only Soak Off will be $10, if you want a soak off with a set the soak off price will be $7",
+        "price": 10
+    },
+    {
+        "service": "Powder Soak Off",
+        "type": "Powder",
+        "details": "Only Soak Off will be $15, if you want a soak off with a new set the soak off price will be $10",
+        "price": 15
+    },
+    {
+        "service": "Callus Remover",
+        "type": "Powder",
+        "details": " ",
+        "price": 15
+    },
+    {
+        "service": "Pedicure Paraffin Treatment",
+        "type": "Pedicure",
+        "details": " ",
+        "price": 15
+    },
+    {
+        "service": "Manicure Paraffin Treatment",
+        "type": "Manicure",
+        "details": " ",
+        "price": 10
+    }
+]
