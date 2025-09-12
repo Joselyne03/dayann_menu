@@ -1,25 +1,31 @@
 [
     {
-        "service": "Manicure & Pedicure",
+        "service": "Men's Manicure & Pedicure",
         "type": "Regular",
-        "details": "Manicure: 18, Pedicure: 30 Enjoy a a classical set of a regular manicure and pedicure with our wide range of color sets.",
+        "details": "",
         "price": 48
       },
       {
-        "service": "Gel Pedicure",
+        "service": "Women Manicure & Pedicure",
+        "type": "Regular",
+        "details": "",
+        "price": 43
+      },
+      {
+        "service":"Gel Pedicure",
         "type": ["Massage Special", "Gel"],
         "details": "Includes 10 minutes of massage",
         "price": 63
       },
       {
-        "service": "Powder Mancicure",
+        "service": "Powder Manicure",
         "type": ["Massage Special","Powder"],
         "details": "Includes 10 minutes of massage",
         "price": 62
       },
       {
         "service": "Gel Manicure & Regular Pedicure",
-        "type": ["Massage Special","Gel-Regular"],
+        "type": ["Massage Special","Gel","Regular"],
         "details": "Includes 10 minutes of massage",
         "price": 77 
       },
@@ -31,26 +37,26 @@
       },
       {
         "service": "Gel Manicure & Gel Pedicure",
-        "type": ["Massage Special","Gel-Regular"],
+        "type": ["Massage Special","Gel","Regular"],
         "details": "Includes 10 minutes of massage",
         "price": 99
       },
       {
-        "service": "Powder Manicire & Gel Pedicure",
-        "type": ["Massage Special","Gel-Powder"],
+        "service": "Powder Manicure & Gel Pedicure",
+        "type": ["Massage Special","Gel","Powder"],
         "details": "Includes 10 minutes of massage",
         "price": 112
       },
       {
-        "service": "Gel Manicure (With a spa Pedicure)",
+        "service":"Gel Manicure (With a Spa Pedicure)",
         "type": ["Massage Special","Gel"],
-        "details": "Enjoy a long lasting gel Manicire at $34 if you pair with any additional spa pedicure. Thus the total price will be 34 + the price of the selected spa pedicure The spa pedicure include: rose, tangrine, lemon",
+        "details": "Enjoy a long lasting Gel Manicire for $34 if you pair with any additional spa pedicure. The total price will be 34 + the regular price of the selected spa pedicure The spa pedicure include: Rose, Tangrine, Lemon",
         "price": 34
       },
       {
         "service": "Free Manicure with a Pomegranate Spa Pedicure",
-        "type": ["Massage Special","Manicure"],
-        "details": "N/A",
+        "type": [],
+        "details": "Receive a free manicure when you purchase a Pomegranate Spa Pedicure at regular price.",
         "price": 0
       }
 ]

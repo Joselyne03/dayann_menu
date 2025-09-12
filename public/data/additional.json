@@ -13,14 +13,14 @@
     },
     {
         "service": "Acrylic Soak Off",
-        "type": "Arcylic",
-        "details": "Only Soak Off will be $20, if you want a soak off with a new acrylic set the soak off price will be $12",
+        "type": "Acrylic",
+        "details": "Soak Off only will be $20, if you want a soak off with a new acrylic set the soak off price will be $12",
         "price": 20
     },
     {
         "service": "Gel Soak Off",
         "type": "Gel",
-        "details": "Only Soak Off will be $10, if you want a soak off with a set the soak off price will be $7",
+        "details": "Soak Off only will be $10, if you want a soak off with a set the soak off price will be $7",
         "price": 10
     },
     {
@@ -32,19 +32,19 @@
     {
         "service": "Callus Remover",
         "type": "Powder",
-        "details": " ",
+        "details": "",
         "price": 15
     },
     {
         "service": "Pedicure Paraffin Treatment",
         "type": "Pedicure",
-        "details": " ",
+        "details": "",
         "price": 15
     },
     {
         "service": "Manicure Paraffin Treatment",
         "type": "Manicure",
-        "details": " ",
+        "details": "",
         "price": 10
     }
 ]

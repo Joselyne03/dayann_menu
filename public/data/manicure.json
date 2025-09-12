@@ -1,49 +1,49 @@
 [{
     "service": "Manicure",
     "type": "Regular",
-    "details": "Manicure: 18 Enjoy a a classical set of a regular manicure and pedicure with our wide range of color sets.",
+    "details": "",
     "price":18
 },
 {
     "service": "French Manicure",
     "type": "Regular",
-    "details": "Manicure: 18 Enjoy a a classical set of a regular manicure and pedicure with our wide range of color sets.",
+    "details": "",
     "price":23
 },
 {
     "service": "Gel Manicure",
     "type": "Gel",
-    "details": " ",
+    "details": "",
     "price":40
 },
 {
     "service": "Gel Polish Manicure Change",
     "type": "Gel",
-    "details": "Enjoy a a classical set of a regular manicure and pedicure with our wide range of color sets.",
+    "details": "",
     "price": 30
 },
 {
     "service": "Regular Polish Manicure Change",
     "type": "Regular",
-    "details": "Enjoy a a classical set of a regular manicure and pedicure with our wide range of color sets.",
+    "details": "",
     "price": 13
 },
 {
     "service": "Keratin Manicure",
     "type": "Regular",
-    "details": " Enjoy a a classical set of a regular manicure and pedicure with our wide range of color sets.",
+    "details": "",
     "price": 25
 },
 {
     "service": "Gel Polish Manicure Change",
     "type": "Gel",
-    "details": "Manicure: 18 Enjoy a a classical set of a regular manicure and pedicure with our wide range of color sets.",
+    "details": "",
     "price": 30
 },
 {
     "service": "Lavender Manicure",
     "type": "Spa",
-    "details": "Manicure: 18 Enjoy a a classical set of a regular manicure and pedicure with our wide range of color sets.",
+    "details": "",
     "price": 32
 
 }

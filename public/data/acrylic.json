@@ -2,37 +2,37 @@
     {
         "service": "Tip Set With Gel",
         "type": "Gel",
-        "details": "Manicure: 18 Enjoy a a classical set of a regular manicure and pedicure with our wide range of color sets.",
+        "details": "",
         "price": 90
     },
     {
         "service": "Tip Set With Regular",
         "type": "Regular",
-        "details": "Manicure: 18 Enjoy a a classical set of a regular manicure and pedicure with our wide range of color sets.",
+        "details": "",
         "price": 75
     },
     {
         "service": "Pink & White Set",
         "type": "French",
-        "details": "When the base is pink and white french set ",
+        "details": "",
         "price": 80
     },
     {
         "service": "Acrylic Filling",
-        "type": "Reg",
-        "details": " ",
+        "type": "Regular",
+        "details": "",
         "price": 55
     },
     {
         "service": "Acrylic Filling",
         "type": "Gel",
-        "details": " ",
+        "details": "",
         "price": 75
     },
     {
         "service": "Pink & White Filling",
         "type": "Regular",
-        "details": " ",
+        "details": "",
         "price": 60
     }
 ]

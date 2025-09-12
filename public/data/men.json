@@ -2,7 +2,7 @@
     {
         "service": "Manicure",
         "type": "Regular",
-        "details": " Clear Manicure ",
+        "details": "",
         "price": 18
     },
     {
@@ -14,13 +14,13 @@
     {
         "service": "Gel Manicure",
         "type": "Gel",
-        "details": " ",
+        "details": "",
         "price": 28
     },
     {
         "service": "Gel Pedicure",
         "type": "Gel",
-        "details": " ",
+        "details": "",
         "price": 42
     }
 ]

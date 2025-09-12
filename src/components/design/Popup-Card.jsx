@@ -14,26 +14,32 @@ export default function PopupCard({
         <button className="close-btn" onclose={handleClose}>
           x
         </button>
-        <img src="../images/nails.jpeg" alt='../images/logo512.png' className="header-img" />
         <div className="below">
 
         <div className="header">
-          <div className="title">
+          <div className="pop-title">
             <h3>{service}</h3>
-            <div className="tag">{type}</div>
           </div>
+          <div className="pop-tags">
+          {type.map((t,index) => (
+              <div className= {`tag ${t.toLowerCase()}`} >{t}</div>
+            )
+            )}
+
+          </div>
+        </div>
+
+
+        <div className="pop-details">
+            <p>{details}</p>
         </div>
 
         <div className="num-Info">
           {/* in row flex direction */}
           <div className="price-display">
-            <h3 className="new-price">${price}</h3>
+            <h3 className="new-price">{typeof price === "number" && price > 0 ? `$${price}` : ""}</h3>
           </div>
 
-        </div>
-
-        <div className="details">
-            <p>{details}</p>
         </div>
 
         </div>

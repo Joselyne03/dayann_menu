@@ -7,7 +7,8 @@
     align-items: center;
     border-radius: 16px;
     box-sizing: border-box; 
-    height: 150px;
+    height: auto;
+
   }
   
 .service-cards:hover{
@@ -15,30 +16,34 @@
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
-.left{
-    display: flex;
-    flex-direction: column;
-    padding: 10px;
-    margin-right: 5px;
-}
-.header{
-    display: flex;
-    flex-direction: column;
 
-}
-.title{
+.info{
     display: flex;
     flex-direction: row;
     width: 100%;
-    margin-bottom: 7px;
+    padding: 10px;
     align-items: center;
+
+}
+.left-side{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    gap: 0px;
+}
+.title{
+    display: flex;
+
+    margin-bottom: 0px;
 }
 
 .right-corner{
     display: flex;
     flex-direction: column;
     justify-content: end;
-    width:20%
+    width:auto;
+    margin-left: auto;
 }
     .price-display{
         display:flex;
@@ -48,19 +53,66 @@
         row-gap: calc(0.5rem);
         column-gap: calc(0.5rem);
     }
-
+.tags{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
 .tag {
     background-color: pink;
     color:rgb(221, 66, 91);
 
-    display: inline-block;
     border-radius: 12px;
-    margin-left: 8px;
+
     padding: 2px 8px;
+    margin-right: 7px;
     font-size: 0.75em;
 
 }
-
+/* color tags for different tag name */
+.tag.gel{
+    color: rgb(20, 108, 6);
+    background-color:lightgreen;
+}
+.tag.regular{
+    background-color: pink;
+    color:rgb(117, 19, 35);
+}
+.tag.spa{
+    background-color: rgb(224, 182, 253);
+    color:purple;
+}
+.tag.sns-organic{
+    color: rgb(255, 115, 0);
+    background-color: rgb(246, 219, 187);
+}
+.tag.manicure{
+    color: #710000;
+    background-color: rgb(247, 196, 196);
+}
+.tag.pedicure{
+    background-color: #eca6ec;
+    color: #510751;
+}
+.tag.french{
+    background-color: #ffe5ec;
+    color: #a53860;
+}
+.tag.massage{
+    background-color: #bbd0ff;
+    color: #360568;
+}
+.tag.powder{
+    color: #670202;
+    background-color: #f5cd92;
+}
+.tag.arcylic{
+    background-color: #ffe5d9;
+    color: #bf0603;
+}
+.details{
+    color: rgb(78, 78, 78);
+}
 .image {
     flex: 0 0 40%; /* reserve ~40% of card width for the image */
     height: 100%;

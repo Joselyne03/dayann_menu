@@ -1,27 +1,27 @@
 [{
     "service": "Gel X Set",
     "type": "Gel",
-    "details": "Enhance your nails with Gel X extensions—flexible, long-lasting, and designed for a flawless natural finish.",
+    "details": "",
     "price": 70
 },
 {
     "service": "Après Gel X Set",
     "type": "Gel",
-    "details": "Après Gel X is the modern alternative to acrylics—soft gel tips cured under LED light for elegant, flexible, and long-lasting nails.",
+    "details": "",
     "price": 85
 },
 {
 "service": "Builder Gel",
 "section" : "Gel Services",
 "type": "Gel",
-"details": "Achieve beautiful, long-lasting nails with builder gel—designed to add strength, structure, and natural elegance.",
+"details": "",
 "price": 65
 },
 {
 "service": "Builder Filling",
 "section" : "Gel Services",
 "type": "Gel",
-"details": "A rejuvenating builder gel fill to restore, strengthen, and seamlessly refresh your existing set.",
+"details": "",
 "price": 60
 }
 ]

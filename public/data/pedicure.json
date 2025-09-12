@@ -2,37 +2,37 @@
     {
         "service": "Pedicure",
         "type": "Regular",
-        "details": " ",
+        "details": "",
         "price": 30
     },
     {
         "service": "Gel Pedicure",
         "type": "Gel",
-        "details": " ",
+        "details": "",
         "price": 55
     },
     {
         "service": "Jelly Pedicure",
         "type": "Regular",
-        "details": " ",
+        "details": "",
         "price": 38
     },
     {
         "service": "Keratin Pedicure",
         "type": "Regular",
-        "details": " ",
+        "details": "",
         "price": 40
     },
     {
         "service": "Polish Change Pedicure",
         "type": "Regular",
-        "details": " ",
+        "details": "",
         "price": 22
     },
     {
         "service": "Polish Change Pedicure",
         "type": "Gel",
-        "details": " ",
+        "details": "",
         "price": 35
     }
 ]

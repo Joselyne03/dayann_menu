@@ -14,31 +14,31 @@
     {
         "service": "Mandarin Spa",
         "type": "Spa",
-        "details": "Lemon Spa thoroughly cleanse and purify skin as well as having physical benefits such as maintaining healthy skin, providing energy for aching feet and boosting circulation. Reenergize the whole body and dispel sluggishness.",
+        "details": "Mandarin orange act as a natural antiseptic that resins the skin promotes skin cell turn over, revealing brighter, younger skin.",
         "price": 57
     },
     {
         "service": "Sensual Rose Spa",
         "type": "Spa",
-        "details": "Lemon Spa thoroughly cleanse and purify skin as well as having physical benefits such as maintaining healthy skin, providing energy for aching feet and boosting circulation. Reenergize the whole body and dispel sluggishness.",
-        "price": 57
+        "details": "Your tired and trampled feet are revitalized in a luxurious foot bath with the scent of a rose bouquet. Rose extracts provide a nourishing blend of vitamins A,C and D to reveal smooth,  younger-looking skin. Includes a 10 min massage ",
+        "price": 67
     },
     {
         "service": "Green Tea Spa",
         "type": "Spa",
-        "details": "Lemon Spa thoroughly cleanse and purify skin as well as having physical benefits such as maintaining healthy skin, providing energy for aching feet and boosting circulation. Reenergize the whole body and dispel sluggishness.",
-        "price": 50
+        "details": "A therapeutic benefit of a green tea infused spa that hydrates and detoxifies. Feet are softened in a green tea soak, exfoliated scrub, followed by a green tea mask. The Green Tea Spa restore soles with treatment options that refresh and re-energized. Includes 15 Min Massage & Callus Removal",
+        "price": 70
     },
     {
         "service": "Silky Milk Spa",
         "type": "Spa",
-        "details": "Lemon Spa thoroughly cleanse and purify skin as well as having physical benefits such as maintaining healthy skin, providing energy for aching feet and boosting circulation. Reenergize the whole body and dispel sluggishness.",
-        "price": 57
+        "details": "Enjoy the multitude of extraordinary skin-improving benefits of milk. Naturally occurring beta-hydroxy acids and enzymes act as an excellent skin exfoliant, making way for newer, more vibrant skin. It's also chock full of Vitamins A, D, E, essential proteins and anti-oxidants to naturally cleanse, fortify and maximize moisture in your skin. Includes a 20 Min Massage & Callus Removal",
+        "price": 77
     },
     {
         "service": "Pomegrante Spa",
         "type": "Spa",
-        "details": "Lemon Spa thoroughly cleanse and purify skin as well as having physical benefits such as maintaining healthy skin, providing energy for aching feet and boosting circulation. Reenergize the whole body and dispel sluggishness.",
-        "price": 57
+        "details": "Purely pomegranate embodies nature's most potent antioxidant. A pomegranate scrub exfoliating treatment that contains a blend of essential oils that sweep away dead skin cells and clear congested pores.",
+        "price": 95
     }
 ]

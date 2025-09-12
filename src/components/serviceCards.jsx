@@ -11,29 +11,45 @@ export default function ServiceCards({
   const handleClick = () => setClick(!click);
 
   const handleClose = () => setClick(false);
+
+  // add bits of details with ... to encourage users to click on the card
+  const charLimit = 50
+  const displayText = details.length > charLimit ? details.slice(0,charLimit) + '...' : details;
   return (
     <div className="service-cards" onClick={handleClick}>
-      <div className="left">
-        <div className="header">
+        <div className="info">
+          <div className="left-side">
           <div className="title">
             <h3>{service}</h3>
-            {type.map((t,index) => (
+          </div>
+          <div className="tags">
+          {type.map((t,index) => (
               <div className= {`tag ${t.toLowerCase()}`} >{t}</div>
             )
             )}
+
           </div>
+          {details && (
+            <div className="details">
+              {displayText}
+            </div>
+          )
+
+          }
+          </div>
+          
           <div className="right-corner">
             <div className="price-display">
-              <h3 className="new-price">${price}</h3>
+              <h3 className="new-price">
+                {typeof price === "number" && price > 0 ? `$${price}` : ""}
+              </h3>
             </div>
           </div>
+
         </div>
-      </div>
-      <div className="image">
-        <img src="../images/nails.jpeg" alt="of a nail" className="img"/>
-      </div>
+
       
-      {click &&(
+      {click && details  &&(
         <PopupCard
         //   key={index}
           service={service}
