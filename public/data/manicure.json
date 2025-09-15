@@ -35,16 +35,11 @@
     "price": 25
 },
 {
-    "service": "Gel Polish Manicure Change",
-    "type": "Gel",
-    "details": "",
-    "price": 30
-},
-{
     "service": "Lavender Manicure",
     "type": "Spa",
     "details": "",
     "price": 32
 
 }
+
 ]

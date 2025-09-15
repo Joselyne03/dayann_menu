@@ -85,11 +85,11 @@ export default function App() {
         />
         <div ref={serviceRef}>
           <Hero />
-          {Object.entries(prices).map(([section, services]) => (
+          {sections.filter((section) => prices[section]).map((section) =>(
             <div key={section}>
               <h2 className="section-title">{section}</h2>
               <div className="service-grid">
-                {services.map((s, index) => (
+                {prices[section].map((s, index) => (
                   <ServiceCards
                     key={index}
                     service={s.service}

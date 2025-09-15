@@ -1,5 +1,17 @@
 [
     {
+        "service": "Longwear Manicure by Essie",
+        "type": "Regular",
+        "details": "Add Essie Gel Longwear for just $5 and enjoy a chip-resistant manicure with shine and durability that lasts up to 15 days, similar to gel, but with the ease of regular polish. ",
+        "price":5
+    },
+    {
+        "service": "Dazzle Dry Color",
+        "type": "Regular",
+        "details": "Experience a quick-drying, chip-resistant manicure with a flawless finish that lasts up to 14 days. ",
+        "price":10
+    },
+    {
         "service": "Nail Design",
         "type": "Manicure",
         "details": "Personalize your nails with up to two custom designs in you set. Simply share your inspiration with your nail technician. ",

@@ -10,17 +10,17 @@
     
     align-items: center;
     width: 100%;
-    font-size: clamp(0.8rem, 1vw + 0.5rem, 1rem);
+    font-size: x-large
 }
 
 
 .logo{
-    height: 100px;
-    width: 100px;
+    height: 200px;
+    width: 200px;
 }
 .logo-img{
-    height: 100px;
-    width: 100px;
+    height: 200px;
+    width: 200px;
    
 }
 .service-tab,
@@ -56,14 +56,16 @@
           flex-direction: row;
           align-items: flex-start;
           gap: 10px;
-          padding: 10px;
+          padding: 5px;
           align-items: center;
           justify-content: space-evenly;
           width: 100%;
+          font-size: large;
+        }
+        .logo,.logo-img{
+            height: 150px;
+            width: 150px;
+           
         }
       
-        .logo, .logo-img {
-          height: 60px;
-          width: 60px;
-        }
       }
